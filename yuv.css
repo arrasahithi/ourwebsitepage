@@ -1,0 +1,18 @@
+h1
+{
+text-align: center;
+color: rgb(150, 15, 150);
+}
+h2{
+text-align: center;
+color: rgb(150, 15, 150);
+}
+p{
+text-align: center;
+color: rgb(91, 1, 91)
+}
+.container
+{
+  height: 900px;
+  width: 90%;
+}
